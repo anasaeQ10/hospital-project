@@ -33,11 +33,11 @@ Ce projet est une application desktop de gestion de clinique médicale développ
 
 ## 📂 Structure du projet
 
-cli/
-├── src/ # Code source Java
-├── rapport_projet_UML_JAVA.pdf # Rapport PDF du projet
-├── cli.sql # Script de création de la base de données
-└── README.md
+- cli/
+- ├── src/ # Code source Java
+- ├── rapport_projet_UML_JAVA.pdf # Rapport PDF du projet
+- ├── cli.sql # Script de création de la base de données
+- └── README.md
 
 
 ## ⚙️ Installation & Exécution
