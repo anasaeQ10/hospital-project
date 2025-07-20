@@ -56,6 +56,7 @@ Ce projet est une application desktop de gestion de clinique médicale développ
 
 <img width="488" height="384" alt="51762502-366e5e80-20d0-11e9-9f95-b693f655b4a7" src="https://github.com/user-attachments/assets/58613877-c8da-4d29-8183-383c8c3d533a" />
 <img width="592" height="414" alt="Screenshot 2025-07-20 at 09 10 00" src="https://github.com/user-attachments/assets/00f5a18a-848d-43f5-b705-4cc2d66b091b" />
+<img width="545" height="384" alt="Screenshot 2025-07-20 at 09 12 11" src="https://github.com/user-attachments/assets/8d6bc0d2-cc0c-4bb4-b440-59d8eeb04238" />
 
 
 
